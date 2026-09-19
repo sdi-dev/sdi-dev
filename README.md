@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yanis</h1>
-<h3 align="center">A student full stack developer from France</h3>
+<h3 align="center">A student developer from France</h3>
 
 - 💻 I’m currently working on **ScreenClub and Alternex**
 - 👨‍🎓 I’m studying **full stack development** at *EFREI Paris*
